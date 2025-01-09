@@ -28,3 +28,18 @@ A palindrome is a number that reads the same forward and backward (e.g., 121, 12
        perl palindrome_checker.pl
 
   
+
+# Code Explanation
+## Key Steps:
+
+    Input Handling:
+        The script reads a number from the user and removes any trailing newline character using chomp.
+
+    Reversal Logic:
+        Using a while loop:
+            Extract the last digit ($remainder = $num % 10).
+            Append the digit to the reversed number ($reversed_num = ($reversed_num * 10) + $remainder).
+            Remove the last digit ($num = int($num / 10)).
+
+    Comparison:
+        The original number is compared with the reversed number to determine if it's a palindrome.
