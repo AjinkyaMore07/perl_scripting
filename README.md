@@ -13,7 +13,9 @@ The 100 Days of Perl challenge is inspired by the #100DaysOfCode movement, aimin
 # Welcome to the 100 Days of RTL Code with Perl repository! 🎉
 
     This journey is designed to enhance your skills in RTL (Register Transfer Level) design by combining it with the power of Perl scripting. Each day, we tackle a specific digital design concept, write RTL code, and demonstrate how Perl can be used to generate, manipulate, or validate the design.
-    
+
+
+       Day	            Topics Covered	                  	Notes/Highlights
     ⭐ Day 1 :
     ⭐ Day 2 :
     ⭐ Day 3 :
@@ -114,3 +116,10 @@ The 100 Days of Perl challenge is inspired by the #100DaysOfCode movement, aimin
     ⭐ Day 98 :
     ⭐ Day 99 :
     ⭐ Day 100 :
+
+
+📣 Spread the Word
+---
+If you find this repository helpful, feel free to give it a ⭐ and share it with others!
+
+Happy Coding! 😊
