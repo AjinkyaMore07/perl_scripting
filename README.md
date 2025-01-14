@@ -17,8 +17,8 @@ The 100 Days of Perl challenge is inspired by the #100DaysOfCode movement, aimin
 
        Day	            
     ⭐ Day 1 :  hello_world.pl
-    ⭐ Day 2 :
-    ⭐ Day 3 :
+    ⭐ Day 2 :  Factorial.
+    ⭐ Day 3 :  sum of odd number 1:20
     ⭐ Day 4 :
     ⭐ Day 5 :
     ⭐ Day 6 :
