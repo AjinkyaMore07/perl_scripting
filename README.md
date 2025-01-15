@@ -23,7 +23,7 @@ The 100 Days of Perl challenge is inspired by the #100DaysOfCode movement, aimin
     ⭐ Day 5 :  Armstrong Number .
     ⭐ Day 6 :  loop concepts to print numbers 1 to 10 in ascending and descending order.
     ⭐ Day 7 :  while_loop_string_comparison.pl
-    ⭐ Day 8 :
+    ⭐ Day 8 :  Even or Odd Checker in Perl .
     ⭐ Day 9 :
     ⭐ Day 10 :
     ⭐ Day 11 :
