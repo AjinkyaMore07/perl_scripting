@@ -25,7 +25,7 @@ The 100 Days of Perl challenge is inspired by the #100DaysOfCode movement, aimin
     ⭐ Day 7 :  while_loop_string_comparison.pl
     ⭐ Day 8 :  Power_calculation .
     ⭐ Day 9 :  Even or Odd Checker in Perl .
-    ⭐ Day 10 :
+    ⭐ Day 10 : prime_number .
     ⭐ Day 11 :
     ⭐ Day 12 :
     ⭐ Day 13 :
