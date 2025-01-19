@@ -27,7 +27,7 @@ The 100 Days of Perl challenge is inspired by the #100DaysOfCode movement, aimin
     ⭐ Day 9 :  Even or Odd Checker in Perl .
     ⭐ Day 10 : prime_number .
     ⭐ Day 11 :
-    ⭐ Day 12 :
+    ⭐ Day 12 :  Command-Line Argument Checker .
     ⭐ Day 13 :
     ⭐ Day 14 :
     ⭐ Day 15 :
